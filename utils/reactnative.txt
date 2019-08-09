@@ -56,6 +56,12 @@ copiando as linhas em roxo e colocando nas respectivas posições.
 
 Depois é precico rodar novamente o comando yarn react-native run-android 
 
+yarn add axios - para apis 
+quando for android náo esquecer de rodar o comando adb reverse tcp:3333 tcp:3333  parar ativar as portas
+
+yarn add @react-native-community/async-storage / depois precisa rodar o comando yarn react-native run-android
+
+
 
 
 
